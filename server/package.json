@@ -23,7 +23,7 @@
   "name": "ride-care-server",
   "engines": {
     "node": "^14.19",
-    "yarn": "1.22.10"
+    "yarn": "1.22.18"
   },
   "devDependencies": {
     "@babel/core": "^7.17.12",
